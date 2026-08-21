@@ -10,7 +10,7 @@ I build systems that other people actually use — and I like the part of the jo
 - **SPG Metall** — a full site and product-catalogue rebuild for an industrial manufacturer. [Live preview](https://metalworks-navigator.vercel.app).
 - **[yolo-detection-pipeline](https://github.com/SimonEkelund/yolo-detection-pipeline)** — training and evaluation pipeline for a real-time two-class YOLOv8 detector. Dataset assembly, incremental retraining from previous weights, and checkpoint comparison on a shared validation set.
 - **Smart fridge** — a Raspberry Pi camera, a Python inference service and a Java client/server keeping a live inventory. Three detectors trained on self-built datasets: 90 % mAP50 on cartons, 86 % on packaged goods, 49 % on loose vegetables.
-- **[simonekelund.se](https://simonekelund.se)** — my portfolio. Next.js, React, a bit of WebGL.
+- **[Portfolio](https://simon-ekelund-personlig-hemsida.vercel.app)** — Next.js, React, a bit of WebGL.
 
 ### Working with
 
@@ -20,6 +20,6 @@ Optimizely and Umbraco from a year at a CMS consultancy. YOLOv8 and OpenCV from 
 
 ### Reach me
 
-[simonekelund.se](https://simonekelund.se) · simonekelund.dev@gmail.com
+[Portfolio](https://simon-ekelund-personlig-hemsida.vercel.app) · simonekelund.dev@gmail.com
 
 *A fair amount of my work sits in private repos. Happy to walk through any of it.*
