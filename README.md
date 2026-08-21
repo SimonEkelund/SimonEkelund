@@ -7,7 +7,6 @@ I build systems that other people actually use — and I like the part of the jo
 ### Things I've built
 
 - **[BuffBar](https://github.com/SimonEkelund/BuffBar)** — a consumable tracker for WoW Classic, [published on CurseForge](https://www.curseforge.com/wow/addons/buffbar) and maintained across several releases.
-- **Lagerkollen** — a stock management system running in a live bar. Bottles are scanned during refills, so inventory updates inside the normal workflow instead of being a separate stock-take. Fewer over-orders, and an actual audit trail.
 - **SPG Metall** — a full site and product-catalogue rebuild for an industrial manufacturer. [Live preview](https://metalworks-navigator.vercel.app).
 - **Object detection on live video** — a YOLOv8 model trained from a dataset I collected and annotated myself, reaching 90.1 % mAP50, driving a real-time control loop.
 - **[simonekelund.se](https://simonekelund.se)** — my portfolio. Next.js, React, a bit of WebGL.
