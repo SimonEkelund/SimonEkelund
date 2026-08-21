@@ -8,7 +8,8 @@ I build systems that other people actually use — and I like the part of the jo
 
 - **[BuffBar](https://github.com/SimonEkelund/BuffBar)** — a consumable tracker for WoW Classic, [published on CurseForge](https://www.curseforge.com/wow/addons/buffbar) and maintained across several releases.
 - **SPG Metall** — a full site and product-catalogue rebuild for an industrial manufacturer. [Live preview](https://metalworks-navigator.vercel.app).
-- **Object detection on live video** — a YOLOv8 model trained from a dataset I collected and annotated myself, reaching 90.1 % mAP50, driving a real-time control loop.
+- **[yolo-detection-pipeline](https://github.com/SimonEkelund/yolo-detection-pipeline)** — training and evaluation pipeline for a real-time two-class YOLOv8 detector. Dataset assembly, incremental retraining from previous weights, and checkpoint comparison on a shared validation set.
+- **Smart fridge** — a Raspberry Pi camera, a Python inference service and a Java client/server keeping a live inventory. Three detectors trained on self-built datasets: 90 % mAP50 on cartons, 86 % on packaged goods, 49 % on loose vegetables.
 - **[simonekelund.se](https://simonekelund.se)** — my portfolio. Next.js, React, a bit of WebGL.
 
 ### Working with
